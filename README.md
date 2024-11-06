@@ -6,10 +6,15 @@
 ---
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
+
 🔭 **Currently working on:** [Palmbook](https://palmbook-admin-qhox39y6j-aditya-bansals-projects-03ea35fa.vercel.app/)
+
 💬 **Ask me about:** ExpressJs, ReactJs, MongoDB, Node.js, Tailwind/Bootstrap - CSS
+
 📫 **Reach me at:** sharmaabhinav23736@gmail.com
+
 📄 **Know about my experiences:** [Abhinav Sharma Resume](https://drive.google.com/file/d/1WV5m_JYtFv-dzPgDSoqHJZyy4GN0nUG3/view?usp=sharing)
+
 ⚡ **Fun fact:** I am ready to learn anything except Machine Learning
 
 ---
