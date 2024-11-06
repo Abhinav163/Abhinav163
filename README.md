@@ -1,5 +1,5 @@
 ---
-# Hi 👋, I'm Aditya Bansal
+# Hi 👋, I'm Abhinav Sharma
 
 ### Passionate Full Stack Developer from India
 ### Check out my complete details at: <a>https://portfolio-aditya-bansal.vercel.app/</a>
