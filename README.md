@@ -7,8 +7,7 @@
 
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:1358/1*yw0TnheAGN-LPneDaTlaxw.gif">
 
-🔭 **Currently working on:** [Palmbook](https://palmbook-admin-qhox39y6j-aditya-bansals-projects-03ea35fa.vercel.app/)
-
+🔭 **Currently working on:** UniSphere
 💬 **Ask me about:** ExpressJs, ReactJs, MongoDB, Node.js, Tailwind/Bootstrap - CSS
 
 📫 **Reach me at:** sharmaabhinav23736@gmail.com
@@ -66,7 +65,7 @@ I'm Abhinav Sharma, a dedicated full-stack developer from India with a strong fo
 
 ### Projects
 
-- **Palmbook:** A web application for admin CRUD operations over a database used by a mobile application for college facilities like booking bus services, updating the mess menu for students and managing students community with providing them access to various features. This project uses Firebase.
+- **UniSphere:** A web application for admin CRUD operations over a database used by a mobile application for college facilities like booking bus services, updating the mess menu for students and managing students community with providing them access to various features. This project uses Firebase.
 
 ---
 
