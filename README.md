@@ -13,7 +13,7 @@
 
 📫 **Reach me at:** sharmaabhinav23736@gmail.com
 
-📄 **Know about my experiences:** [Abhinav Sharma Resume](https://drive.google.com/file/d/1phvaxjutGlgIVZ8yEuJJDmRlTQUvVY_0/view?usp=sharing)
+📄 **Know about my experiences:** [Abhinav Sharma Resume](https://drive.google.com/file/d/1dWA5trR1htSspl3FP0vqleCruOqNJZ68/view?usp=sharing)
 
 ⚡ **Fun fact:** I am ready to learn anything except Machine Learning
 
