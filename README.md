@@ -72,13 +72,6 @@ I'm Abhinav Sharma, a dedicated full-stack developer from India with a strong fo
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav163&show_icons=true&locale=en&layout=compact" alt="abhinav163" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhinav163&show_icons=true&locale=en" alt="abhinav163" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav163&" alt="abhinav163" />
