@@ -62,11 +62,13 @@
 
 ### About Me
 
-I'm Abhinav Sharma, a dedicated full-stack developer from India with a strong focus on creating dynamic and scalable web applications. Currently, I am pursuing a BTech degree and have completed my second year. With a solid foundation in backend development, I bring full-stack expertise and some Android development experience to my work. I’m passionate about leveraging technology to build impactful solutions and am always eager to expand my skill set.
+I'm Abhinav Sharma, a dedicated full-stack developer from India with a strong focus on creating dynamic and scalable web applications. Currently, I am working as a software developer at Eazydiner. With a solid foundation in backend development, I bring full-stack expertise experience to my work. I’m passionate about leveraging technology to build impactful solutions and am always eager to expand my skill set.
 
 ### Projects
 
 - **UniSphere:** A web application for admin CRUD operations over a database used by a mobile application for college facilities like booking bus services, updating the mess menu for students and managing students community with providing them access to various features. This project uses Firebase.
+
+- **Staffmate:** Multi-tenant HRMS & factory operations platform for small manufacturers: employees, attendance, leave, payroll, salary advances, GST billing, inventory and production tracking. Built with Next.js 16, TypeScript, Prisma, PostgreSQL and Better Auth.
 
 ---
 
